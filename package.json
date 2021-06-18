@@ -1,10 +1,14 @@
 {
   "name": "cra-template-dataod-basic-js",
   "author": {
-    "name": "Dataod"
+    "name": "Dataod <contact@dataod.com>"
   },
   "deprecated": false,
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dataod/cra-template-dataod-basic-js.git"
+  },
   "keywords": [
     "react",
     "create-react-app",
@@ -15,6 +19,9 @@
   "license": "MIT",
   "engines": {
     "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/dataod/cra-template-dataod-basic-js/issues"
   },
   "files": [
     "template",
